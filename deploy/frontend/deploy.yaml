@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: myappfe
-        image: ruchithareja/cart:frontend:TAG
+        image: ruchithareja1/cart:frontend:TAG
         imagePullPolicy: Always
         ports:
         - containerPort: 80
